@@ -8,10 +8,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script>
+      // Se GitHub Pages carregar a raiz e falhar ao buscar src/main.js, redireciona para a pasta /docs/
+      window.addEventListener('error', function(e) {
+        if (e.target && e.target.src && e.target.src.includes('src/main.js')) {
+          var cleanPath = window.location.pathname.replace(/\/$/, '');
+          window.location.replace(cleanPath + '/docs/');
+        }
+      }, true);
+    </script>
   </head>
   <body>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
-
