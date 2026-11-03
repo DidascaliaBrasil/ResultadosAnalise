@@ -1,0 +1,1151 @@
+{
+  "classroom_configs": {
+    "-P1pXhU5Yp8A5hEF31Yi": {
+      "Alunos": {
+        "Aluno1": {
+          "condicao": "Típico",
+          "nome": "Márcia"
+        },
+        "Aluno10": {
+          "condicao": "Típico",
+          "nome": "Rafael"
+        },
+        "Aluno11": {
+          "condicao": "Típico",
+          "nome": "Maitê"
+        },
+        "Aluno12": {
+          "condicao": "Típico",
+          "nome": "Lucas"
+        },
+        "Aluno2": {
+          "condicao": "Típico",
+          "nome": "Júlia"
+        },
+        "Aluno3": {
+          "condicao": "Típico",
+          "nome": "Juliana"
+        },
+        "Aluno4": {
+          "condicao": "Típico",
+          "nome": "Breno"
+        },
+        "Aluno5": {
+          "condicao": "Típico",
+          "nome": "Isabela"
+        },
+        "Aluno6": {
+          "condicao": "Típico",
+          "nome": "Ana"
+        },
+        "Aluno7": {
+          "condicao": "Típico",
+          "nome": "Miguel"
+        },
+        "Aluno8": {
+          "condicao": "Típico",
+          "nome": "Luiz"
+        },
+        "Aluno9": {
+          "condicao": "Típico",
+          "nome": "William"
+        }
+      },
+      "situacao_atual": {
+        "ativo": "nao"
+      }
+    },
+    "-P1u-UU0qOgoJ-WUPoOm": {
+      "Alunos": {
+        "Aluno1": {
+          "condicao": "Típico",
+          "nome": "Julio"
+        },
+        "Aluno10": {
+          "condicao": "Típico",
+          "nome": "Gustavo"
+        },
+        "Aluno11": {
+          "condicao": "Típico",
+          "nome": "Cecília"
+        },
+        "Aluno12": {
+          "condicao": "Típico",
+          "nome": "João"
+        },
+        "Aluno13": {
+          "condicao": "Típico",
+          "nome": "Antônia"
+        },
+        "Aluno14": {
+          "condicao": "Típico",
+          "nome": "Fernanda"
+        },
+        "Aluno15": {
+          "condicao": "Típico",
+          "nome": "Juliana"
+        },
+        "Aluno16": {
+          "condicao": "Típico",
+          "nome": "Fabi"
+        },
+        "Aluno2": {
+          "condicao": "Típico",
+          "nome": "Marcos"
+        },
+        "Aluno3": {
+          "condicao": "Típico",
+          "nome": "Cinthia"
+        },
+        "Aluno4": {
+          "condicao": "Típico",
+          "nome": "Helena"
+        },
+        "Aluno5": {
+          "condicao": "Típico",
+          "nome": "Rafael"
+        },
+        "Aluno6": {
+          "condicao": "Típico",
+          "nome": "Aurora"
+        },
+        "Aluno7": {
+          "condicao": "Típico",
+          "nome": "Daniel"
+        },
+        "Aluno8": {
+          "condicao": "Típico",
+          "nome": "Carlos"
+        },
+        "Aluno9": {
+          "condicao": "Típico",
+          "nome": "Felipe"
+        }
+      },
+      "Resultados": {
+        "Sessao_1": {
+          "activeParticipantId": "BUCTALJT",
+          "dataInicio": "2026-09-24T14:03:47Z",
+          "duracaoSegundos": 349,
+          "totalIntents": 0
+        },
+        "Sessao_2": {
+          "activeParticipantId": "BUCTALJT",
+          "dataInicio": "2026-09-24T14:09:53Z",
+          "duracaoSegundos": 1336,
+          "totalIntents": 0
+        },
+        "Sessao_3": {
+          "activeParticipantId": "BUCTALJT",
+          "dataInicio": "2026-09-24T14:32:24Z",
+          "duracaoSegundos": 272,
+          "totalIntents": 0
+        },
+        "Sessao_4": {
+          "activeParticipantId": "BUCTALJT",
+          "dataInicio": "2026-09-26T19:02:07Z",
+          "duracaoSegundos": 388,
+          "totalIntents": 0
+        }
+      },
+      "activeParticipantId": "BUCTALJT",
+      "cols": 4,
+      "comando_facilitador": {
+        "-P3MT-Morah_7SJkWlGz": {
+          "timestamp": 1791395104314,
+          "tipo_conflito": "StartRoom"
+        },
+        "-P3MT6Ph-R4nuHQD1YOE": {
+          "aluno_alvo": "Julio",
+          "timestamp": 1791395133172,
+          "tipo_conflito": "TakeMaterialAll"
+        },
+        "-P3MT8GeI2jml_nUpv8l": {
+          "aluno_alvo": "Aurora",
+          "timestamp": 1791395140785,
+          "tipo_conflito": "StandUpConflict"
+        },
+        "-P3MTA_2N0WYbLTlf0qV": {
+          "aluno_alvo": "Aurora",
+          "timestamp": 1791395150218,
+          "tipo_conflito": "TakeMaterialAll"
+        }
+      },
+      "criadoEm": "2026-09-19T14:11:25.900Z",
+      "facilitadorId": "UTCOXL2H",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numBoys": 8,
+      "numDesks": 16,
+      "numGirls": 8,
+      "radius": 0,
+      "roomName": "Sala teste 1",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "sim"
+      },
+      "targetId": "-P1tyeezWlIqUlg2Dl-s",
+      "targetType": "grupo"
+    },
+    "-P2zUvcMnjRA81EZkAOW": {
+      "situacao_atual": {
+        "ativo": "nao"
+      }
+    },
+    "-P3COqfKpvqZ1PbNg9-q": {
+      "Resultados": {
+        "Sessao_1": {
+          "activeParticipantId": "XPFONCIZ",
+          "dataInicio": "2026-10-05T19:17:16Z",
+          "duracaoSegundos": 162,
+          "intentsDetalhadas": {
+            "Adiar": 1,
+            "Advertencia": 1,
+            "Despedida": 1,
+            "ElogioPositivo": 2,
+            "Expulsão": 2,
+            "MoverAluno": 1,
+            "Perguntar": 1,
+            "RegularEmocao": 2,
+            "Saudações": 1,
+            "TrocarAluno": 1
+          },
+          "totalIntents": 13
+        },
+        "Sessao_2": {
+          "activeParticipantId": "LYBFGITH",
+          "dataInicio": "2026-10-05T19:26:02Z",
+          "duracaoSegundos": 244,
+          "intentsDetalhadas": {
+            "ElogioPositivo": 1,
+            "EstabelecerLimites": 2,
+            "ExplicarNovamente": 1,
+            "PegarMaterial": 2,
+            "Saudações": 2
+          },
+          "totalIntents": 8
+        }
+      },
+      "activeParticipantId": "LYBFGITH",
+      "cols": 4,
+      "criadoEm": "2026-10-05T18:50:46.320Z",
+      "facilitadorId": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 0,
+      "numBoys": 8,
+      "numDesks": 16,
+      "numGirls": 8,
+      "numTEA": 1,
+      "radius": 10,
+      "roomName": "SALA TEA",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "-P3COhI9SeF-FwMvHZTw",
+      "targetType": "grupo"
+    },
+    "-P3CP1StTRRVR6q9xFfF": {
+      "Alunos": {
+        "Aluno1": {
+          "condicao": "Típico",
+          "nome": "Isabela"
+        },
+        "Aluno10": {
+          "condicao": "Típico",
+          "nome": "Gustavo"
+        },
+        "Aluno11": {
+          "condicao": "Típico",
+          "nome": "Luisa"
+        },
+        "Aluno12": {
+          "condicao": "Típico",
+          "nome": "Maria"
+        },
+        "Aluno13": {
+          "condicao": "Típico",
+          "nome": "Juliana"
+        },
+        "Aluno14": {
+          "condicao": "Típico",
+          "nome": "Fabi"
+        },
+        "Aluno15": {
+          "condicao": "Típico",
+          "nome": "Ana"
+        },
+        "Aluno16": {
+          "condicao": "Típico",
+          "nome": "Adriana"
+        },
+        "Aluno2": {
+          "condicao": "Típico",
+          "nome": "José"
+        },
+        "Aluno3": {
+          "condicao": "Típico",
+          "nome": "Rafael"
+        },
+        "Aluno4": {
+          "condicao": "Típico",
+          "nome": "Helena"
+        },
+        "Aluno5": {
+          "condicao": "Típico",
+          "nome": "Julio"
+        },
+        "Aluno6": {
+          "condicao": "Típico",
+          "nome": "João"
+        },
+        "Aluno7": {
+          "condicao": "Típico",
+          "nome": "Luiz"
+        },
+        "Aluno8": {
+          "condicao": "Típico",
+          "nome": "Breno"
+        },
+        "Aluno9": {
+          "condicao": "ADHD",
+          "nome": "Francisco"
+        }
+      },
+      "Resultados": {
+        "Sessao_1": {
+          "activeParticipantId": "XPFONCIZ",
+          "dataInicio": "2026-10-05T19:12:22Z",
+          "duracaoSegundos": 219,
+          "intentsDetalhadas": {
+            "Acalmar": 1,
+            "ChamarAluno": 1,
+            "ElogioPositivo": 4,
+            "IncentivarAutonomia": 1,
+            "MoverAluno": 1,
+            "PegarMaterial": 4,
+            "Saudações": 1,
+            "Sentarse": 1,
+            "Silencio": 1,
+            "TrocarAluno": 1
+          },
+          "totalIntents": 16
+        },
+        "Sessao_2": {
+          "activeParticipantId": "LYBFGITH",
+          "dataInicio": "2026-10-05T19:40:59Z",
+          "duracaoSegundos": 210,
+          "intentsDetalhadas": {
+            "Acalmar": 1,
+            "ExplicarNovamente": 1,
+            "IncentivarAutonomia": 1,
+            "Perguntar": 1,
+            "PromoverRespeito": 1,
+            "Saudações": 1,
+            "TrocarAtividade": 1
+          },
+          "totalIntents": 7
+        }
+      },
+      "activeParticipantId": "LYBFGITH",
+      "cols": 4,
+      "comando_facilitador": {
+        "-P3TXKnXjgvQqkBv46Hv": {
+          "timestamp": 1791513681179,
+          "tipo_conflito": "StartRoom"
+        },
+        "-P3TXLZYXEnSLWb704FL": {
+          "timestamp": 1791513684316,
+          "tipo_conflito": "EndRoom"
+        }
+      },
+      "criadoEm": "2026-10-05T18:51:34.612Z",
+      "facilitadorId": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 1,
+      "numBoys": 8,
+      "numDesks": 16,
+      "numGirls": 8,
+      "numTEA": 0,
+      "radius": 10,
+      "roomName": "SALA TDAH",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "-P3COhI9SeF-FwMvHZTw",
+      "targetType": "grupo"
+    },
+    "-P3Cm7wBThT8Z18JyWwv": {
+      "Alunos": {
+        "Aluno1": {
+          "condicao": "Típico",
+          "nome": "Antônia"
+        },
+        "Aluno10": {
+          "condicao": "Típico",
+          "nome": "Helena"
+        },
+        "Aluno11": {
+          "condicao": "Típico",
+          "nome": "Júlia"
+        },
+        "Aluno12": {
+          "condicao": "Típico",
+          "nome": "Rafael"
+        },
+        "Aluno13": {
+          "condicao": "Típico",
+          "nome": "Leonardo"
+        },
+        "Aluno14": {
+          "condicao": "Típico",
+          "nome": "Gustavo"
+        },
+        "Aluno15": {
+          "condicao": "Típico",
+          "nome": "Felipe"
+        },
+        "Aluno16": {
+          "condicao": "Típico",
+          "nome": "Miguel"
+        },
+        "Aluno2": {
+          "condicao": "Típico",
+          "nome": "Aurora"
+        },
+        "Aluno3": {
+          "condicao": "Típico",
+          "nome": "João"
+        },
+        "Aluno4": {
+          "condicao": "TEA",
+          "nome": "Julio"
+        },
+        "Aluno5": {
+          "condicao": "Típico",
+          "nome": "Luiz"
+        },
+        "Aluno6": {
+          "condicao": "Típico",
+          "nome": "Ana"
+        },
+        "Aluno7": {
+          "condicao": "Típico",
+          "nome": "Alice"
+        },
+        "Aluno8": {
+          "condicao": "Típico",
+          "nome": "Patrícia"
+        },
+        "Aluno9": {
+          "condicao": "Típico",
+          "nome": "Maitê"
+        }
+      },
+      "Resultados": {
+        "Sessao_1": {
+          "activeParticipantId": "32PMUSGE",
+          "dataInicio": "2026-10-05T20:45:39Z",
+          "duracaoSegundos": 152,
+          "intentsDetalhadas": {
+            "ElogioPositivo": 1,
+            "PausarAula": 1,
+            "PromoverRespeito": 1,
+            "Saudações": 1
+          },
+          "totalIntents": 4
+        },
+        "Sessao_2": {
+          "activeParticipantId": "CA0DJGUV",
+          "dataInicio": "2026-10-05T21:06:03Z",
+          "duracaoSegundos": 243,
+          "intentsDetalhadas": {
+            "Acalmar": 1,
+            "ChamarAluno": 1,
+            "ElogioPositivo": 2,
+            "ExplicarNovamente": 1,
+            "PegarMaterial": 1,
+            "Saudações": 1
+          },
+          "totalIntents": 7
+        }
+      },
+      "activeParticipantId": "CA0DJGUV",
+      "cols": 4,
+      "criadoEm": "2026-10-05T20:36:52.933Z",
+      "facilitadorId": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 0,
+      "numBoys": 8,
+      "numDesks": 16,
+      "numGirls": 8,
+      "numTEA": 1,
+      "pinStreaming": "1694",
+      "radius": 10,
+      "roomName": "Sala TEA 2",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "-P3ClxhSAMylYmNqwtHD",
+      "targetType": "grupo"
+    },
+    "-P3CmHnDWx_JafOS28nv": {
+      "Resultados": {
+        "Sessao_1": {
+          "activeParticipantId": "32PMUSGE",
+          "dataInicio": "2026-10-05T20:50:36Z",
+          "duracaoSegundos": 235,
+          "intentsDetalhadas": {
+            "Castigo": 1,
+            "DarApoio": 1,
+            "Despedida": 1,
+            "ElogioPositivo": 3,
+            "PararConflito": 1,
+            "PegarMaterial": 3,
+            "Saudações": 1,
+            "Trabalhar": 2
+          },
+          "totalIntents": 13
+        },
+        "Sessao_2": {
+          "activeParticipantId": "CA0DJGUV",
+          "dataInicio": "2026-10-05T20:56:48Z",
+          "duracaoSegundos": 366,
+          "intentsDetalhadas": {
+            "PararConflito": 1,
+            "RegularEmocao": 1,
+            "Saudações": 1,
+            "Trabalhar": 1
+          },
+          "totalIntents": 4
+        }
+      },
+      "activeParticipantId": "32PMUSGE",
+      "cols": 4,
+      "comando_facilitador": {
+        "-P4Onfv6-U-w7AQ4EOcL": {
+          "timestamp": 1792508084801,
+          "tipo_conflito": "StartRoom"
+        },
+        "-P4Onmv1pZbrv0n71rqV": {
+          "timestamp": 1792508113468,
+          "tipo_conflito": "EndRoom"
+        },
+        "-P4Onn8buhK6rhb5xKo1": {
+          "timestamp": 1792508114401,
+          "tipo_conflito": "StartRoom"
+        },
+        "-P4OnrzyQvbmJCNUGp88": {
+          "timestamp": 1792508134264,
+          "tipo_conflito": "EndRoom"
+        }
+      },
+      "criadoEm": "2026-10-05T20:37:33.319Z",
+      "facilitadorId": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 1,
+      "numBoys": 8,
+      "numDesks": 16,
+      "numGirls": 8,
+      "numTEA": 0,
+      "radius": 10,
+      "roomName": "Sala TDAH 2",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "-P3ClxhSAMylYmNqwtHD",
+      "targetType": "grupo"
+    },
+    "-P3G6tJ3XMJPzzF2v_x8": {
+      "Alunos": {
+        "Aluno1": "Claudio",
+        "Aluno2": "Cesar",
+        "Aluno3": "William",
+        "Aluno4": "Fagundes"
+      },
+      "cols": 5,
+      "comando_facilitador": {
+        "-P3G7tKgq41z6jHnGeOB": {
+          "aluno_alvo": "Cesar",
+          "timestamp": 1791288907108,
+          "tipo_conflito": "StandUpConflict"
+        },
+        "-P3GArtyyhi6Yxr1Gtpx": {
+          "aluno_alvo": "Claudio",
+          "timestamp": 1791289687662,
+          "tipo_conflito": "ResetSingleStudent"
+        },
+        "-P3GAwNdJ8DwBmQ-Pgbp": {
+          "aluno_alvo": "Claudio",
+          "mensagem": "Esqueci meu caderno!",
+          "timestamp": 1791289706010,
+          "tipo_conflito": "TextToSpeech"
+        },
+        "-P3IpmR7IMSPVC6qssHO": {
+          "aluno_alvo": "Cesar",
+          "timestamp": 1791334229677,
+          "tipo_conflito": "StandUpConflict"
+        },
+        "-P3SZL-T9M2iqsd90tzN": {
+          "timestamp": 1791497429070,
+          "tipo_conflito": "EndRoom"
+        }
+      },
+      "criadoEm": "2026-10-06T12:10:44.801Z",
+      "facilitadorId": "FACU0280",
+      "instituicaoId": "FACU0280",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 1,
+      "numBoys": 10,
+      "numDesks": 20,
+      "numGirls": 10,
+      "numTEA": 1,
+      "radius": 10,
+      "roomName": "Sala de Aula Tradicional",
+      "rows": 4,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "A59VOWRP",
+      "targetType": "aluno"
+    },
+    "-P3W2umqyOA3MBYGLK7m": {
+      "activeHeadsetId": "11efa6eed840ae871b6ea0aeb52521dc",
+      "activeParticipantId": "7NOIJ7JS",
+      "cols": 3,
+      "criadoEm": "2026-10-09T14:27:12.681Z",
+      "facilitadorId": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "maxDesksInSemiCircle": 0,
+      "numADHD": 0,
+      "numBoys": 3,
+      "numDesks": 7,
+      "numGirls": 3,
+      "numTEA": 1,
+      "pinStreaming": "9518",
+      "radius": 10,
+      "roomName": "Probas Computadora",
+      "rows": 3,
+      "shape": 0,
+      "situacao_atual": {
+        "ativo": "nao"
+      },
+      "targetId": "-P3C0kTX22TvzxxUSFLU",
+      "targetType": "grupo"
+    }
+  },
+  "instituicoes": {
+    "FACU0280": {
+      "FacilitadorPlus": true,
+      "criadoPor": "williamfunk.11@gmail.com",
+      "dataCadastro": "2026-10-06T12:08:51.345Z",
+      "email": "plus@gmail.com",
+      "instituicaoId": "FACU0280",
+      "nomeFaculdade": "FaculdadeTeste",
+      "sigla": "",
+      "tipoCadastro": "instituição",
+      "usuarios": {
+        "A59VOWRP": "Aluno Um"
+      }
+    },
+    "WAA09527": {
+      "criadoPor": "williamfunk.11@gmail.com",
+      "dataCadastro": "2026-09-19T13:42:25.296Z",
+      "email": "williamgame.11@gmail.com",
+      "grupos": {
+        "-P1txSciadRqiaPMk8G7": {
+          "criadoEm": "2026-09-19T13:58:12.347Z",
+          "facilitadorId": "O1CIQJMT",
+          "facilitadorNome": "Julio Melo",
+          "nome": "Grupo Teste Julio",
+          "participantes": [
+            {
+              "email": "contato@affectnet.com.br",
+              "id": "MLJFGBW2",
+              "nome": "Fabiane Proba",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "joao49540@gmail.com",
+              "id": "THWFUVME",
+              "nome": "João Pedro Ferreira Alves ",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "leonardogviana@gmail.com",
+              "id": "BUCTALJT",
+              "nome": "Leonardo Gonçalves Viana",
+              "tipo": "Usuario"
+            }
+          ]
+        },
+        "-P1txUeqILb7pmnLSkV0": {
+          "criadoEm": "2026-09-19T13:58:21.939Z",
+          "facilitadorId": "IKKNZGWO",
+          "facilitadorNome": "Leonardo Viana",
+          "nome": "Turma Brasil-Espanha",
+          "participantes": [
+            {
+              "email": "joao49540@gmail.com",
+              "id": "THWFUVME",
+              "nome": "João Pedro Ferreira Alves ",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "juliocezarmelo10@outlook.com",
+              "id": "XULACL7A",
+              "nome": "Julio Melo",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "contato@affectnet.com.br",
+              "id": "MLJFGBW2",
+              "nome": "Fabiane Proba",
+              "tipo": "Usuario"
+            }
+          ]
+        },
+        "-P1tyeezWlIqUlg2Dl-s": {
+          "criadoEm": "2026-09-19T14:03:27.434Z",
+          "facilitadorId": "UTCOXL2H",
+          "facilitadorNome": "Fabiane Proba",
+          "nome": "Grupo 1",
+          "participantes": [
+            {
+              "email": "leonardogviana@gmail.com",
+              "id": "BUCTALJT",
+              "nome": "Leonardo Gonçalves Viana",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "joao49540@gmail.com",
+              "id": "THWFUVME",
+              "nome": "João Pedro Ferreira Alves ",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "juliocezarmelo10@outlook.com",
+              "id": "XULACL7A",
+              "nome": "Julio Melo",
+              "tipo": "Usuario"
+            }
+          ]
+        },
+        "-P2AHT6j4xfDWduZovDa": {
+          "criadoEm": "2026-09-22T22:43:31.862Z",
+          "facilitadorId": "ATUZIMQG",
+          "facilitadorNome": "WILLIAM C D S FAGUN",
+          "nome": "Grupo Teste",
+          "participantes": [
+            {
+              "email": "contato@affectnet.com.br",
+              "id": "MLJFGBW2",
+              "nome": "Fabiane Proba",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "juliocezarmelo10@outlook.com",
+              "id": "XULACL7A",
+              "nome": "Julio Melo",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "leonardogviana@gmail.com",
+              "id": "BUCTALJT",
+              "nome": "Leonardo Gonçalves Viana",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "joao49540@gmail.com",
+              "id": "THWFUVME",
+              "nome": "João Pedro Ferreira Alves ",
+              "tipo": "Usuario"
+            }
+          ]
+        },
+        "-P3C0kTX22TvzxxUSFLU": {
+          "criadoEm": "2026-10-05T17:05:25.887Z",
+          "facilitadorId": "7NOIJ7JS",
+          "facilitadorNome": "JOAO PEDRO FERREIRA ALVES",
+          "nome": "Ignorar",
+          "participantes": [
+            {
+              "email": "joao49541@gmail.com",
+              "id": "7NOIJ7JS",
+              "nome": "JOAO PEDRO FERREIRA ALVES",
+              "tipo": "Facilitador"
+            }
+          ]
+        },
+        "-P3COhI9SeF-FwMvHZTw": {
+          "criadoEm": "2026-10-05T18:50:07.909Z",
+          "facilitadorId": "7NOIJ7JS",
+          "facilitadorNome": "JOAO PEDRO FERREIRA ALVES",
+          "nome": "Primeiro Grupo",
+          "participantes": [
+            {
+              "email": "157722@gmail.com.br",
+              "id": "XPFONCIZ",
+              "nome": "157722",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "157725@gmail.com.br",
+              "id": "JUFK5MUK",
+              "nome": "157725",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "157730@gmail.com.br",
+              "id": "LYBFGITH",
+              "nome": "157730",
+              "tipo": "Usuario"
+            }
+          ]
+        },
+        "-P3ClxhSAMylYmNqwtHD": {
+          "criadoEm": "2026-10-05T20:36:06.934Z",
+          "facilitadorId": "7NOIJ7JS",
+          "facilitadorNome": "JOAO PEDRO FERREIRA ALVES",
+          "nome": "Grupo 2",
+          "participantes": [
+            {
+              "email": "327727@gmail.com",
+              "id": "32PMUSGE",
+              "nome": "327727",
+              "tipo": "Usuario"
+            },
+            {
+              "email": "327723@gmail.com",
+              "id": "CA0DJGUV",
+              "nome": "327723",
+              "tipo": "Usuario"
+            }
+          ]
+        }
+      },
+      "instituicaoId": "WAA09527",
+      "nomeFaculdade": "WilliamAcademy",
+      "oculos": {
+        "0e2bbe6dbfbe185d7e747e9eaa9ef492fdb2e10f": {
+          "Oculos_id": "0e2bbe6dbfbe185d7e747e9eaa9ef492fdb2e10f",
+          "dataRegistro": "2026-09-19T18:25:44.9543705Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "750QFG (SAMSUNG ELECTRONICS CO., LTD.)"
+        },
+        "11efa6eed840ae871b6ea0aeb52521dc": {
+          "Oculos_id": "11efa6eed840ae871b6ea0aeb52521dc",
+          "dataRegistro": "2026-10-26T15:43:31.6725410Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "Oculus Quest 3"
+        },
+        "1e0d1b3680fb8b3614367dc38705fd90": {
+          "Oculos_id": "1e0d1b3680fb8b3614367dc38705fd90",
+          "dataRegistro": "2026-10-23T12:18:52.2429530Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "Oculus Quest 3"
+        },
+        "4c8232942794b40c7546b02ab8f27d750ecc8569": {
+          "Oculos_id": "4c8232942794b40c7546b02ab8f27d750ecc8569",
+          "dataRegistro": "2026-10-09T14:03:06.1077696Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "83F1 (LENOVO)"
+        },
+        "556b4d4918be07211402fd354c3a672d9d06fc68": {
+          "Oculos_id": "556b4d4918be07211402fd354c3a672d9d06fc68",
+          "dataRegistro": "2026-09-22T21:12:07.2463919Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "MS-7D46 (Micro-Star International Co., Ltd.)"
+        },
+        "6d99cb975e73120a127814c2a3ffc85e": {
+          "Oculos_id": "6d99cb975e73120a127814c2a3ffc85e",
+          "dataRegistro": "2026-10-05T01:23:57.5441270Z",
+          "instituicaoId": "WAA09527",
+          "modelo": "Oculus Quest 3"
+        }
+      },
+      "sigla": "WAA",
+      "tipoCadastro": "instituição",
+      "usuarios": {
+        "2KJNBFM3": "123456",
+        "32PMUSGE": "327727",
+        "7NOIJ7JS": "JOAO PEDRO FERREIRA ALVES",
+        "ATUZIMQG": "WILLIAM C D S FAGUN",
+        "BUCTALJT": "Leonardo Gonçalves Viana",
+        "CA0DJGUV": "327723",
+        "GTKYPPRR": "Elaine de Barros Manhanini Sampaio ",
+        "IKKNZGWO": "Leonardo Viana",
+        "JMBLFKN7": "Lizandra Viana Maurat da Rocha",
+        "JUFK5MUK": "157725",
+        "JUQTCNOH": "327721",
+        "LYBFGITH": "157730",
+        "MLJFGBW2": "Fabiane Proba",
+        "O1CIQJMT": "Julio Melo",
+        "OVFZNLUT": "Fabiana Ribeiro Araújo de Souza ",
+        "THWFUVME": "João Pedro Ferreira Alves ",
+        "UTCOXL2H": "Fabiane Proba",
+        "WTZU6ZTV": "051",
+        "XPFONCIZ": "157722",
+        "XU2OXBVD": "01010101",
+        "XULACL7A": "Julio Melo"
+      }
+    }
+  },
+  "usuarios": {
+    "2KJNBFM3": {
+      "authUid": "2KjnBFm3auTmLGBfEuRY1PSgj0w2",
+      "cargo": "",
+      "criadoEm": "2026-10-05T15:34:45.628Z",
+      "email": "123456@gmail.com",
+      "idCurto": "2KJNBFM3",
+      "instituicaoId": "WAA09527",
+      "nome": "123456",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "32PMUSGE": {
+      "authUid": "32PMuSGeLsZ4Y3MxLOIq56D3TK22",
+      "cargo": "",
+      "criadoEm": "2026-10-05T19:02:01.154Z",
+      "email": "327727@gmail.com",
+      "idCurto": "32PMUSGE",
+      "instituicaoId": "WAA09527",
+      "nome": "327727",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "7NOIJ7JS": {
+      "authUid": "7noiJ7jsiDaFbHu26sIjB2QdkEm2",
+      "cargo": "Facilitador",
+      "criadoEm": "2026-09-22T21:13:24.730Z",
+      "email": "joao49541@gmail.com",
+      "idCurto": "7NOIJ7JS",
+      "instituicaoId": "WAA09527",
+      "nome": "JOAO PEDRO FERREIRA ALVES",
+      "telefone": "21969681060",
+      "tipoCadastro": "Facilitador"
+    },
+    "A59VOWRP": {
+      "authUid": "A59VOWRpSaZhJd8OX0vutejEehQ2",
+      "cargo": "",
+      "criadoEm": "2026-10-06T12:10:06.953Z",
+      "email": "1@gmail.com",
+      "idCurto": "A59VOWRP",
+      "instituicaoId": "FACU0280",
+      "nome": "Aluno Um",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "ATUZIMQG": {
+      "authUid": "ATUZiMqGSybNY40EfFJcBZotwJ92",
+      "cargo": "Tester",
+      "criadoEm": "2026-09-22T22:42:17.822Z",
+      "email": "teste@gmail.com",
+      "idCurto": "ATUZIMQG",
+      "instituicaoId": "WAA09527",
+      "nome": "WILLIAM C D S FAGUN",
+      "telefone": "21984108411",
+      "tipoCadastro": "Facilitador"
+    },
+    "BUCTALJT": {
+      "authUid": "BUctalJTPAQz9LHkf8Q4sFz03LJ2",
+      "cargo": "Professor",
+      "criadoEm": "2026-09-19T13:47:29.737Z",
+      "email": "leonardogviana@gmail.com",
+      "idCurto": "BUCTALJT",
+      "instituicaoId": "WAA09527",
+      "nome": "Leonardo Gonçalves Viana",
+      "telefone": "21991990639",
+      "tipoCadastro": "Usuario"
+    },
+    "CA0DJGUV": {
+      "authUid": "ca0DjGUvytccg90QlsgO9ZZHbON2",
+      "cargo": "",
+      "criadoEm": "2026-10-05T19:02:46.330Z",
+      "email": "327723@gmail.com",
+      "idCurto": "CA0DJGUV",
+      "instituicaoId": "WAA09527",
+      "nome": "327723",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "GTKYPPRR": {
+      "authUid": "gtkypPRRz6Sg9i7Mz4JFJZfl0Hu2",
+      "cargo": "Professora",
+      "criadoEm": "2026-10-05T18:46:20.432Z",
+      "email": "157725@gmail.com",
+      "idCurto": "GTKYPPRR",
+      "instituicaoId": "WAA09527",
+      "nome": "Elaine de Barros Manhanini Sampaio ",
+      "telefone": "21988163847",
+      "tipoCadastro": "Usuario"
+    },
+    "IKKNZGWO": {
+      "authUid": "IKKnZgwopJXRdE0TRAvhZBrxUPf1",
+      "cargo": "Facilitador",
+      "criadoEm": "2026-09-19T13:50:00.108Z",
+      "email": "leonardo.viana@eco.ufrj.br",
+      "idCurto": "IKKNZGWO",
+      "instituicaoId": "WAA09527",
+      "nome": "Leonardo Viana",
+      "telefone": "21991990639",
+      "tipoCadastro": "Facilitador"
+    },
+    "JMBLFKN7": {
+      "authUid": "JMBlFkn74lRx20JXQGrNMCqb91v1",
+      "cargo": "Professora pesquisadora",
+      "criadoEm": "2026-10-05T18:44:53.747Z",
+      "email": "157730@gmail.com",
+      "idCurto": "JMBLFKN7",
+      "instituicaoId": "WAA09527",
+      "nome": "Lizandra Viana Maurat da Rocha",
+      "telefone": "21983723134",
+      "tipoCadastro": "Usuario"
+    },
+    "JUFK5MUK": {
+      "authUid": "JUfk5mUke2Wa6WnDP3wm4R6N7DJ3",
+      "cargo": "Profess",
+      "criadoEm": "2026-10-05T18:49:33.414Z",
+      "email": "157725@gmail.com.br",
+      "idCurto": "JUFK5MUK",
+      "instituicaoId": "WAA09527",
+      "nome": "157725",
+      "telefone": "000000000000",
+      "tipoCadastro": "Usuario"
+    },
+    "JUQTCNOH": {
+      "authUid": "JuQTCNoH3tVzHlW3gwZJDb2JCpD3",
+      "cargo": "",
+      "criadoEm": "2026-10-05T15:39:42.306Z",
+      "email": "327721@gmail.com",
+      "idCurto": "JUQTCNOH",
+      "instituicaoId": "WAA09527",
+      "nome": "327721",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "LYBFGITH": {
+      "authUid": "lYBFgitHM0M7yGzfE3A1aCDkBb63",
+      "cargo": "",
+      "criadoEm": "2026-10-05T18:49:08.247Z",
+      "email": "157730@gmail.com.br",
+      "idCurto": "LYBFGITH",
+      "instituicaoId": "WAA09527",
+      "nome": "157730",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "MLJFGBW2": {
+      "authUid": "MljfgBw2SGfZGhcg1rK8qHcBv7l2",
+      "cargo": "diretora",
+      "criadoEm": "2026-09-19T13:52:21.428Z",
+      "email": "contato@affectnet.com.br",
+      "idCurto": "MLJFGBW2",
+      "instituicaoId": "WAA09527",
+      "nome": "Fabiane Proba",
+      "telefone": "21997974144",
+      "tipoCadastro": "Usuario"
+    },
+    "O1CIQJMT": {
+      "authUid": "o1CiQjmTgvbY4X5p4LdJUERnX1E2",
+      "cargo": "Orientador Pedagógico",
+      "criadoEm": "2026-09-19T13:47:45.576Z",
+      "email": "juliocezarmelo10@gmail.com",
+      "idCurto": "O1CIQJMT",
+      "instituicaoId": "WAA09527",
+      "nome": "Julio Melo",
+      "telefone": "21965213215",
+      "tipoCadastro": "Facilitador"
+    },
+    "OVFZNLUT": {
+      "authUid": "oVfZNlutAbT7KEERbWIniwLHP812",
+      "cargo": "Professor",
+      "criadoEm": "2026-10-05T18:45:27.974Z",
+      "email": "157722@gmail.com",
+      "idCurto": "OVFZNLUT",
+      "instituicaoId": "WAA09527",
+      "nome": "Fabiana Ribeiro Araújo de Souza ",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "THWFUVME": {
+      "authUid": "tHwfUVmEm7ZLcXzHhgoWiCKHdfD2",
+      "cargo": "Aluno",
+      "criadoEm": "2026-09-19T13:52:28.860Z",
+      "email": "joao49540@gmail.com",
+      "idCurto": "THWFUVME",
+      "instituicaoId": "WAA09527",
+      "nome": "João Pedro Ferreira Alves ",
+      "telefone": "21997264207",
+      "tipoCadastro": "Usuario"
+    },
+    "UTCOXL2H": {
+      "authUid": "UtcoXl2hlKM0Wujthin3DeHPPXg1",
+      "cargo": "diretora",
+      "criadoEm": "2026-09-19T14:00:26.804Z",
+      "email": "fabiproba@gmail.com",
+      "idCurto": "UTCOXL2H",
+      "instituicaoId": "WAA09527",
+      "nome": "Fabiane Proba",
+      "telefone": "21 997974144",
+      "tipoCadastro": "Facilitador"
+    },
+    "WTZU6ZTV": {
+      "authUid": "WtZU6zTvekYx1kYrT6SiAWLlcob2",
+      "cargo": "Aluno",
+      "criadoEm": "2026-10-04T00:10:20.850Z",
+      "email": "joao49543@gmail.com",
+      "idCurto": "WTZU6ZTV",
+      "instituicaoId": "WAA09527",
+      "nome": "051",
+      "telefone": "323134677949",
+      "tipoCadastro": "Usuario"
+    },
+    "XPFONCIZ": {
+      "authUid": "xpFoNCizRHcOBkR6teH9vVHDfw32",
+      "cargo": "",
+      "criadoEm": "2026-10-05T18:49:37.582Z",
+      "email": "157722@gmail.com.br",
+      "idCurto": "XPFONCIZ",
+      "instituicaoId": "WAA09527",
+      "nome": "157722",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "XU2OXBVD": {
+      "authUid": "xU2oXBvDYOhKG6MzQxnz3WmgmbR2",
+      "cargo": "",
+      "criadoEm": "2026-10-05T12:58:32.969Z",
+      "email": "01010101@gmail.com",
+      "idCurto": "XU2OXBVD",
+      "instituicaoId": "WAA09527",
+      "nome": "01010101",
+      "telefone": "",
+      "tipoCadastro": "Usuario"
+    },
+    "XULACL7A": {
+      "authUid": "xULacl7acZU2V8Ru6a8yRmRD4Rx2",
+      "cargo": "Professor",
+      "criadoEm": "2026-09-19T13:49:21.930Z",
+      "email": "juliocezarmelo10@outlook.com",
+      "idCurto": "XULACL7A",
+      "instituicaoId": "WAA09527",
+      "nome": "Julio Melo",
+      "telefone": "21965213215",
+      "tipoCadastro": "Usuario"
+    }
+  }
+}
